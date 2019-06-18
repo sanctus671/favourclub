@@ -28,7 +28,7 @@
     <preference name="SplashScreenBackgroundColor" value="0xFFFFFFFF" />
     <platform name="android">
         <preference name="StatusBarStyle" value="lightcontent" />
-        <preference name="StatusBarBackgroundColor" value="#675b7f" />
+        <preference name="StatusBarBackgroundColor" value="#8a7aa9" />
         <allow-intent href="market:*" />
         <preference name="loadUrlTimeoutValue" value="700000" />
         <icon density="ldpi" src="resources/android/icon/ldpi.png" />
